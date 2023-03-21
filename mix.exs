@@ -21,7 +21,7 @@ defmodule Untangle.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:phoenix, "~> 1.6.2"},
+      {:phoenix, "~> 1.7.2"},
       {:ecto_erd, "~> 0.4"}
     ]
   end
